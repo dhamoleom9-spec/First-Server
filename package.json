@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dhamoleom9-spec/First-Server/issues"
   },
-  "homepage": "https://github.com/dhamoleom9-spec/First-Server#readme"
+  "homepage": "https://github.com/dhamoleom9-spec/First-Server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
